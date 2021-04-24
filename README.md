@@ -1,2 +1,2 @@
 # SaatProjesi
-Bu proje CodeCraft Python etkinliği dahilinde, BÖRÜ 4045 ekibi tarafından yapılmıştır.
+Bu proje CodeCraft Python etkinliği dahilinde, BÖRÜ 4540 ekibi tarafından yapılmıştır.
